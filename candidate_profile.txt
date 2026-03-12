@@ -1,0 +1,109 @@
+NAME
+Renzo Rico
+
+TARGET ROLES
+Data Scientist
+Machine Learning Engineer
+Data Analyst (with strong data and problem‑solving focus)
+Junior–Mid Data Science / Analytics roles (not senior)
+
+TARGET LOCATIONS AND WORK MODES
+- Primary location: London, UK
+- Acceptable locations:
+  - London + ~50 miles
+  - Remote within the UK
+  - Remote within Europe if the compensation is strong enough
+- Work modes:
+  - Ideal: Hybrid in London
+  - Also good: Fully remote within UK/Europe
+  - Acceptable: Onsite in London
+
+SENIORITY AND COMPENSATION
+- Current level: Junior–Mid Data Scientist / Data Analyst
+- Target level: Junior or solid Mid-level roles with clear ownership (no senior titles)
+- Salary expectations: At least £50,000 per year, higher for remote European roles depending on cost of living and responsibilities
+- Prefer permanent roles over short-term contracts
+
+TECHNICAL SKILLS (HARD)
+Core stack (very strong, daily use):
+- Python, pandas, NumPy, scikit-learn
+- SQL
+- Git, Linux, terminal
+
+Additional skills (solid, comfortable in production/notebooks):
+- Machine learning: regression, classification, clustering, NLP basics
+- Working with APIs and building simple data apps (e.g. Streamlit)
+
+Analytics and data skills:
+- Exploratory data analysis and data cleaning
+- Feature engineering and model selection
+- Model evaluation and interpretation
+- Dashboarding and reporting with Power BI and Looker Studio
+- Data storytelling and explaining results clearly
+
+Machine learning focus:
+- Classical ML (supervised and unsupervised)
+- NLP use cases (text processing, topic modelling, basic sentiment/analysis)
+
+TOOLS AND CLOUD
+- Google Cloud Platform (including BigQuery)
+- GitHub and collaborative development workflows
+
+PROFESSIONAL EXPERIENCE (BRIEF)
+- Strong teaching and mentoring background in data and AI, working with real datasets.
+- Le Wagon – Data Science & AI Lead Teacher (Aug 2023 – present, Europe on-site/online):
+  - Delivered 400+ hours of live, hands-on sessions using Python, SQL, ML, and Power BI.
+  - Guided end-to-end data projects: cleaning, feature engineering, model training, evaluation, and business communication.
+  - Debugged notebooks, SQL queries, and ML workflows under time pressure.
+- Freelance Data Consultant:
+  - One-to-one mentoring in data science fundamentals (Python, workflows, statistics, Git).
+  - Adapted teaching and tools to different accessibility and communication needs.
+- BAC Engineering – BIM Modeler / Architect:
+  - Built BIM models and workflows, detected design clashes, and created standardised templates and libraries.
+  - Developed an analytical, design-driven mindset and experience with digital workflows.
+
+INDUSTRY PREFERENCES
+- Open to: A wide range of industries (tech, SaaS, data products, consulting, etc.) as long as the role involves serious data work and clear impact.
+- Prefer environments where data and analytics are important to decision‑making.
+- No strict industry red lines beyond avoiding roles where data is not central or is treated as pure reporting.
+- Company size preference: Small to mid-size companies or product teams where a junior–mid data person can have visible impact, but open to larger organisations with good data teams.
+
+VISA AND SPONSORSHIP
+- Citizenship: Spanish passport (EU citizen).
+- Current location: London, UK.
+- Visa status: Needs UK Skilled Worker visa to stay long term in the UK.
+- Important: Prefer roles that explicitly provide Skilled Worker sponsorship or are willing to sponsor in the near term.
+
+ROLE RESPONSIBILITIES I WANT
+- Hands-on work with Python, SQL, and data analysis/ML on real business problems.
+- Involvement across the lifecycle: understanding the problem, exploring data, building models or analyses, and communicating results.
+- Working as part of a data or product team inside a company (not purely teaching-focused roles).
+- Collaboration with other data scientists, analysts, engineers, and product stakeholders.
+- Opportunities to grow skills and responsibilities over time (from junior toward mid-level).
+
+THINGS I WANT TO AVOID
+- Roles that are mostly static reporting or dashboard maintenance with little analytical depth.
+- Jobs where “Data Scientist/Analyst” means mainly creating basic reports without real analysis or modelling.
+- Roles that are actually senior positions, lead roles, or heavy people management.
+- Pure ML infrastructure/ML Ops roles with minimal analysis or modelling.
+
+TOP 3 PRIORITIES
+1. Hands-on data work (Python, SQL, ML and/or analytics) on meaningful, real-world problems.
+2. Working as part of a company’s data/product team with room to grow from junior to mid-level.
+3. Visa sponsorship for UK Skilled Worker and compensation of at least £50,000 per year (more for strong remote European roles).
+
+HOW TO SCORE JOBS (GUIDANCE FOR THE MODEL)
+- High score (80–100):
+  - Role title close to Data Scientist / Data Analyst / ML Engineer at junior or mid-level.
+  - Location and work mode compatible (London, hybrid, remote UK/Europe) with compensation aligned (around or above £50k).
+  - Strong use of Python + SQL; meaningful data analysis or ML work.
+  - Part of a company team (not mainly teaching), with clear room for growth.
+
+- Medium score (50–79):
+  - Some mismatch in title, stack, or location, but still involves serious data work and a realistic path for a junior–mid profile.
+  - Compensation slightly below target but good learning and growth.
+
+- Low score (<50):
+  - Mostly basic reporting/BI or Excel-only work with little analysis or modelling.
+  - Clearly senior/lead roles or heavy management expectations.
+  - Wrong location/work mode with no realistic visa sponsorship or too low compensation.

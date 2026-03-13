@@ -80,9 +80,11 @@ def style_visited_links() -> None:
 st.set_page_config(page_title="London JobFinder", page_icon="💼", layout="wide")
 init_state()
 
-st.markdown("## London JobFinder")
+st.markdown("## 💼 Find me a Job! -- London")
 st.caption(
-    "Searches are always fixed to London, England, United Kingdom with a 50-mile radius, including remote and hybrid listings."
+    "For those seeking Data/ML/AI roles in the London area.\n"
+    "This app scrapes LinkedIn for relevant job postings and applies various filters to find the best matches. Click 'Fetch / Refresh jobs' to get started! \n"
+    "GOOD LUCK! 🍀"
 )
 st.divider()
 
